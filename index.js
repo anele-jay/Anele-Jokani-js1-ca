@@ -1,4 +1,4 @@
-//first try fetching the url details
+
 fetch("https://www.amiiboapi.com/api/amiibo/")
 .then(function(response){
 	return response.json();
